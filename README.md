@@ -6,7 +6,7 @@ Projet conçu en équipe avec : [Lea, Naomi]
 
 - Type de joueur visé (fonceur ou explorateur) : Explorateur
 - Catégorie et genre : Aventure
-- Le concept en une phrase (un personnage, un objectif, un obstacle) : Zein recherche le tueur qui a tuer son meilleur ami grace a ses pouvoirs, mais il ne doit pas se faire attrapper par la police.
+- Le concept en une phrase (un personnage, un objectif, un obstacle) : Vrýoeidìs
 
 ## Les mécaniques
 
