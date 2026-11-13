@@ -5,7 +5,7 @@ Projet conçu en équipe avec : [Lea, Naomi]
 ## Le public cible
 
 - Type de joueur visé (fonceur ou explorateur) : Fonceur
-- Catégorie et genre : Aventure
+- Catégorie et genre : Réflexion
 - Le concept en une phrase (un personnage, un objectif, un obstacle) : Vrýoeidís doit ramasser en cinq jours le plus de pieces de monnaie possible en aidant des clients avant que la nuit tombe pour gagner 1000 baies.
 
 ## Les mécaniques
@@ -13,9 +13,9 @@ Projet conçu en équipe avec : [Lea, Naomi]
 - Objectif du jeu : Gagner 1000 baies ou au moins 500 baies pour partir en aventure.
 - Condition de victoire : Gagner 1000 baies
 - Condition de défaite : Gagner moins que 500 baies
-- Mécanique cœur : Vrýoeidís a une capacité de révéler les étapes d'une actions si il est coincé. Les clients ont un temps limité de patience 
-- Mécanique secondaire : système de santé mentale (sanity), système de pointage pour acheter des outils.
-- Structure (progressif ou émergent, expliquez en quelques mots) : ...
+- Mécanique cœur : Vrýoeidís a une capacité de révéler les étapes d'une actions si il est coincé. Les clients ont un temps limité de patience, le plus longtemps qu'il prend à finir une étape, le moins de monnaies et de baies qu'il gagne.
+- Mécanique secondaire : système de meilleur score (Baies), système de pointage pour acheter des outils.
+- Structure (progressif ou émergent, expliquez en quelques mots) : Progressif, les jours deviennent plus dure que l'autre.
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
 ## Les phases de jeu
