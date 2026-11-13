@@ -4,16 +4,16 @@ Projet conçu en équipe avec : [Lea, Naomi]
 
 ## Le public cible
 
-- Type de joueur visé (fonceur ou explorateur) : Explorateur
+- Type de joueur visé (fonceur ou explorateur) : Fonceur
 - Catégorie et genre : Aventure
-- Le concept en une phrase (un personnage, un objectif, un obstacle) : Vrýoeidìs
+- Le concept en une phrase (un personnage, un objectif, un obstacle) : Vrýoeidís doit ramasser en cinq jours le plus de pieces de monnaie possible en aidant des clients avant que la nuit tombe pour gagner 1000 baies.
 
 ## Les mécaniques
 
-- Objectif du jeu : Trouver le tueur
-- Condition de victoire : Amener le tueur à la police/arrêter le tueur
-- Condition de défaite : Mourir par ces pouvoir ou se faire tuer par le tueur.
-- Mécanique cœur : Zein a un pouvoir qui lui permet de voir une minute dans le passé de tout ce qui touche (personne ou objet), mais il peut tout ressentir ce qui affecte sa santé mental et si sa santé mentale monte trop, il finira à mourir par le choque. Pour adoucir sa santé mentale, il doit se cacher dans son pull-over, mais en se cachant notre visibilité diminue se qui n'est pas convenable pour une situation de danger.
+- Objectif du jeu : Gagner 1000 baies ou au moins 500 baies pour partir en aventure.
+- Condition de victoire : Gagner 1000 baies
+- Condition de défaite : Gagner moins que 500 baies
+- Mécanique cœur : Vrýoeidís a une capacité de révéler les étapes d'une actions si il est coincé. Les clients ont un temps limité de patience 
 - Mécanique secondaire : système de santé mentale (sanity), système de pointage pour acheter des outils.
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
