@@ -20,7 +20,7 @@ Projet conçu en équipe avec : [Lea, Naomi]
 
 ## Les phases de jeu
 
-- La boucle de jeu (action → rétroaction → récompense) : ...
+- La boucle de jeu (action → rétroaction → récompense) : Résoudre des énigmes 
 - Phase 1 : ... (règles, contrôles, interface)
     - Transition vers la phase 2 : ...
 - Phase 2 : ... (règles, contrôles, interface)
